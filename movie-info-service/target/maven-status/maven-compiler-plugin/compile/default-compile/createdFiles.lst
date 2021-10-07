@@ -1,0 +1,4 @@
+com\microservices\movieinfoservice\resources\MovieResource.class
+com\microservices\movieinfoservice\MovieInfoServiceApplication.class
+com\microservices\movieinfoservice\models\MovieSummary.class
+com\microservices\movieinfoservice\models\Movie.class
